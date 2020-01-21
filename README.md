@@ -8,3 +8,4 @@ Computer Vision projects, University of Barcelona. Here you can find some of my 
   5) Descriptors extraction for object detection, based on template matching, ORB, and HOG.
   6) Image search using textures.
   7) Haar-like features applied for face detection.
+  8) Finally I decided to include a project about Autonomous driving.
